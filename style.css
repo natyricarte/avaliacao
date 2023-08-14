@@ -1,0 +1,16 @@
+body{
+    background-color: slategrey;
+}
+h1{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 700px ;
+}
+p{
+    text-align:justify;
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin: 50px;
+}
