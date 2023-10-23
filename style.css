@@ -9,7 +9,7 @@ h1{
 p{
     text-align:justify;
 }
-img{
+.imagemp{
     width: 500px;
     height: 500px;
     margin: 50px;
@@ -35,3 +35,4 @@ img{
     height: 200px;
     margin-left: 100px;
 }
+
