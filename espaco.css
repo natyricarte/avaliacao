@@ -1,0 +1,12 @@
+.textoespaco{
+    margin-left: 250px;
+    margin-right: 250px;
+    border: 5px dashed rgb(206, 195, 164);
+    padding: 20px;
+    background-color: antiquewhite;
+}
+.imagem{
+    margin-left: 375px;
+    margin-right: 575px;
+    
+}
